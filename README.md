@@ -2,11 +2,11 @@
 
 - 🔭 I’m currently working on **Chrome EXtension on Data Masking**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Python,DataStructure**
 
 - 👨‍💻 All of my projects are available at [https://snehak40.wixsite.com/snehikaacharya](https://snehak40.wixsite.com/snehikaacharya)
 
-- 📝 I regularly write articles on [AL,ML](AL,ML)
+- 📝 I regularly write articles on [AI,ML](AI,ML)
 
 - 📫 How to reach me **snehakacharya3@gmail.com , snehakacharya19@gmail.com**
 
