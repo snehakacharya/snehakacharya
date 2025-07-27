@@ -4,13 +4,12 @@
 
 - 🌱 I’m currently learning **Python,DataStructure**
 
-- 👨‍💻 All of my projects are available at [https://snehak40.wixsite.com/snehikaacharya](https://snehak40.wixsite.com/snehikaacharya)
+- 👨‍💻 All of my projects are available at github
 
 - 📝 I regularly write articles on [AI,ML](AI,ML)
 
 - 📫 How to reach me **snehakacharya3@gmail.com , snehakacharya19@gmail.com**
 
-- 📄 Know about my experiences [https://snehak40.wixsite.com/snehikaacharya](https://snehak40.wixsite.com/snehikaacharya)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
